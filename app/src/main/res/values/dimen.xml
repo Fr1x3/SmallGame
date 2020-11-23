@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largeText">30sp</dimen>
+    <dimen name="smallText">24sp</dimen>
+    <dimen name="btnRadius">20dp</dimen>
+</resources>
